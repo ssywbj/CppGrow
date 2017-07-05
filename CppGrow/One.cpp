@@ -1,4 +1,4 @@
-#include<iostream>//引入系统iostream库
+#include<iostream>//引入标准库的iostream头文件
 
 using namespace std;
 
@@ -67,6 +67,10 @@ int main()
 		cout << "process was terminated"<< endl;
 	}
 	*/
+
+	//了解操作系统文件重定向功能，如“$ addItems <infile> outfile”，其中“$”为系统提示符，两文件均位于当前目录
+
+	//“.”：点运算符，“()”：调用运算符，“::”：域运算符
 
 	system("pause");
 	return 0;
