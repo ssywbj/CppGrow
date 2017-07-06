@@ -1,3 +1,4 @@
 ﻿  One.cpp
+d:\workplace\c++\cppgrow\cppgrow\one.cpp(102): warning C4305: “初始化”: 从“int”到“bool”截断
   CppGrow.vcxproj -> D:\Workplace\C++\CppGrow\Debug\CppGrow.exe
   CppGrow.vcxproj -> D:\Workplace\C++\CppGrow\Debug\CppGrow.pdb (Full PDB)
